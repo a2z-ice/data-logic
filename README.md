@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/a2z-ice/spring-data-randd/blob/main/Architecture%20Diagram.jpg)
+![alt text](https://github.com/a2z-ice/data-logic/blob/main/Architecture%20Diagram.jpg)
 
 ```shell
 
