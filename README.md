@@ -1,5 +1,7 @@
 # data-logic
 
+# The project is not fully completed and not get time to write unite and integration test and also do not do necessary validation
+# The assignment requires many improvements. Please take a look.
 
 
 ![alt text](https://github.com/a2z-ice/data-logic/blob/main/Architecture%20Diagram.jpg)
@@ -76,5 +78,4 @@ curl --location --request DELETE 'http://localhost:8080/project-service/sections
 
 ```
 
-# The project is not fully completed unable to write unite and integration test and also do not do necessary validation
-# The assignment require many improvement. Please take a look.
+
